@@ -1,0 +1,24 @@
+{
+  "name": "@aaa/some-package-with-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/types/index.d.ts",
+  "scripts": {
+    "build": "tsc -p ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzz4012650/some-package-with-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzz4012650/some-package-with-types/issues"
+  },
+  "homepage": "https://github.com/jzz4012650/some-package-with-types#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
